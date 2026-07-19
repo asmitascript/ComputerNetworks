@@ -18,6 +18,7 @@ This repository contains my Computer Networks (CN) notes prepared for learning, 
 - Flow Control & Congestion Control
 - Switching Techniques
 - Network Security Basics
+- Unit wise important question list
 
 ## 🎯 Purpose
 
